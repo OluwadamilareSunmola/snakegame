@@ -1,10 +1,10 @@
-# snakegame
 # Space Snake Game
 
 ## Overview
-Space Snake is a classic arcade game with a cosmic twist, developed in Python using Pygame. The player navigates a snake through space, eating food to grow longer while avoiding collisions. This game features custom graphics, an engaging space theme, and user-friendly controls, making it an enjoyable experience for players of all ages.
+Space Snake is a classic Snake game with a cosmic twist. Built with Python and Pygame, it features a space-themed background and an engaging gameplay experience. Navigate the snake to eat food while avoiding collisions with the game boundaries or itself.
 
 ## Features
-- **Engaging Space Theme**: Play in a beautifully designed space environment with a starry background.
-- **Custom Graphics**: Enjoy a visually appealing game with custom-designed elements.
-- **Dynamic Difficulty**: The game increases in difficulty as the snake grows longer
+- **Space-Themed Background**: A visually appealing space background that enhances the gaming experience.
+- **Customizable Snake**: The snake is rendered in a vivid orange color, making it stand out against the cosmic backdrop.
+- **Score Tracking**: Keep track of your score with every food item the snake consumes.
+- **Game Over Screen**: When the game ends, a screen prompts you to either quit or play again.
