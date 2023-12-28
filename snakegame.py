@@ -8,8 +8,8 @@ dis_width = 600
 dis_height = 400
 
 # Define the path to your font and image files
-font_path = 'C:\\Users\\sunmo\\Downloads\\Roboto\\Roboto-Regular.ttf'
-background_path = 'C:\\Users\\sunmo\\Downloads\\stars-1654074_1280.jpg'
+font_path = 'Roboto-Regular.ttf'
+background_path = 'stars-1654074_1280.jpg'
 
 # Load the custom font and background image
 custom_font = pygame.font.Font(font_path, 35)  # Adjusted font size for fitting text
