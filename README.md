@@ -8,3 +8,9 @@ Space Snake is a classic Snake game with a cosmic twist. Built with Python and P
 - **Customizable Snake**: The snake is rendered in a vivid orange color, making it stand out against the cosmic backdrop.
 - **Score Tracking**: Keep track of your score with every food item the snake consumes.
 - **Game Over Screen**: When the game ends, a screen prompts you to either quit or play again.
+
+## Contributing
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
